@@ -13,7 +13,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Git from Udemy
+          Learn Git and GitHub from my Udemy Course and please share it
         </a>
       </header>
     </div>
